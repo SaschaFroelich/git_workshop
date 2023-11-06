@@ -1,3 +1,0 @@
-Name: Tandy
-Animal: Tahr
-Special Power: Can disguise itself as a goat.
