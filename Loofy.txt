@@ -1,0 +1,3 @@
+Name: Loofy
+Animal: Platypus
+Special Power: Feeds off solar energy.
