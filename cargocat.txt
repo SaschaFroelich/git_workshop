@@ -1,0 +1,3 @@
+Name: <cargocat>
+Animal: <camouflage cat>
+Special Power: <camouflaging>, really?
