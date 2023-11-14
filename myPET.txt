@@ -1,0 +1,3 @@
+Name: Muddy
+Animal: Gorilla
+Special Power: Drumming
